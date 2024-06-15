@@ -1,2 +1,5 @@
-# CodeClause
-Projects
+This repository consists of two python based projects that are created during my Python Development Internship at CodeClause from 1st June, 2024 to 30th June, 2024.
+
+1: In the first project, we have built a calculator with a Graphical User Interface (GUI) using ipywidgets in a Google Colab environment. This calculator can easily perform all basic arithmetic operations, including addition, subtraction, multiplication, and division. It allows users to input numbers and operations by clicking buttons, making it user-friendly and interactive. The GUI takes user input into consideration for performing calculations and displays the results in real-time, enhancing the overall user experience. 
+
+2: In the second project, we have developed a model for a URL shortener and retriever. This model provides users with three options: to shorten a URL, retrieve the original URL from a shortened version, and exit the program. The Python code operates based on the user's input, offering a straightforward and interactive experience. Users can input a long URL to receive a shortened version, input a shortened URL to retrieve the original, or choose to exit the application. This project highlights the use of Python to create functional and user-interactive applications for managing URLs efficiently.
